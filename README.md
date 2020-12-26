@@ -7,7 +7,7 @@ This is a simple Book and user management project with CRUD operations for CORE 
  - Apply CRUD operations on User.
  
 ## UI
-
+<img src = "https://github.com/Raswanth8/book-core-lab/blob/main/img/1.png">
 
 ## Installation
 
