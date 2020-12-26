@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "The Fault in our starts",
+      "price": "500"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Raswanth",
+      "email": "raswanth8901@gmail.com",
+      "password": "fffffff"
+    }
+  ]
+}
