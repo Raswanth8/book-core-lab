@@ -8,7 +8,7 @@ This is a simple Book and user management project with CRUD operations for CORE 
  
 ## UI
 
-!(https://ibb.co/L5J3wcQ) <br>
+<img src = "https://ibb.co/L5J3wcQ"> <br>
 ![alt text](https://ibb.co/5vPDqch) <br>
 ![alt text](https://ibb.co/P5yT3QT) <br>
 ![alt text](https://ibb.co/8zvZRRh) <br>
