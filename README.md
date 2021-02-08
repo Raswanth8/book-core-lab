@@ -1,6 +1,6 @@
 # Book Management Core LAB
 
-This is a simple Book and user management project with CRUD operations for CORE LAB.
+This is a simple Book and user management project with CRUD operations for Amrita CORE LAB.
 
 ## Functionalities
  - Apply CRUD operations on Posts.
